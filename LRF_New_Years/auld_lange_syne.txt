@@ -1,0 +1,39 @@
+# Intro
+c 3 m
+f 3 dm
+f 3 ds
+f 3 m
+a 4 m
+g 3 dm
+f 3 ds
+g 3 m
+a 4 m
+f 3 dm
+f 3 ds
+a 4 m
+c 4 m
+d 4 l
+
+# Repeated Part
+d 4 m
+c 4 dm
+a 4 ds
+a 4 m
+f 3 m
+g 3 dm
+
+# Ending 1
+a 4 m
+f 3 dm
+d 3 ds
+d 3 m
+c 3 m
+f 3 l
+
+# Ending 2
+d 4 m
+c 4 dm
+a 4 ds
+a 4 m
+c 4 m
+d 4 l

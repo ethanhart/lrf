@@ -62,7 +62,9 @@ def main():
 
     for l in lines:
         l = l.strip()
-        if l != '':
+        if l.startswith("#"):  # Use '#' in text file to indicate new part
+            print '\n' + l
+        elif l != '':
             lrf_sound = create_lrf_sound(l)
             print '{ ' + lrf_sound + ' },'
 
